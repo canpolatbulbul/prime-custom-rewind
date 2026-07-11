@@ -1,4 +1,4 @@
-# Prime Video Custom Skip
+# Prime Video Custom Rewind
 
 A lightweight Chrome/Firefox browser extension built using Manifest V3 that introduces precise, customizable fast-forward and rewind controls for Amazon Prime Video. 
 
